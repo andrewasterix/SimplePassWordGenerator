@@ -1,9 +1,9 @@
-#Simple PassWord Generator
+# Simple PassWord Generator
 
 Simple PassWord Generator in Java
 
-##Compile 
+## Compile 
     javac Main.java
 
-##Execute
+## Execute
     java Main
